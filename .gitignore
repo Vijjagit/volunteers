@@ -1,0 +1,19 @@
+# PHP files
+vendor/
+composer.lock
+
+# Environment files
+.env
+config.php
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.idea/
+.vscode/
+
+# Logs
+*.log
+logs/
